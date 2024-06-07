@@ -2,10 +2,10 @@
 
 
 Roadmad:
-1- Solve 10 easy question on Leetcode for each topic in: Array, String, Hash Table,  Tree, Linked List
-2- Solve the questions in the following link in order until Two Heaps questions: https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
-3- Solve Blind 75 in Neetcode Website in random order
-4- (Advanced) Join Competitive programming club :)
+1. Solve 10 easy question on Leetcode for each topic in: Array, String, Hash Table,  Tree, Linked List
+2. Solve the questions in the following link in order until Two Heaps questions: https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
+3. Solve Blind 75 in Neetcode Website in random order
+4. (Advanced) Join Competitive programming club :)
 
 
 
