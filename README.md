@@ -19,8 +19,8 @@ Array:
 5. Product of Array Except Self
 6. Best Time to Buy and Sell Stock
 7. Rotate Array
-8. Move zeros
-9. Intersection of Two Arrays II
+8. Move zeros (283)
+9. Intersection of Two Arrays II (350)
 10. Container With Most Water
 
 
