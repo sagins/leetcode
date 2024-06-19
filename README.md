@@ -29,7 +29,7 @@ String:
 2. Slowest Key (1629)
 3. Reverse Words in a String 3 (557)
 4. Largets 3-Same-Digit Number in String (2264)
-5. 
+5. Fizz Buzz (412)
 6. 
 7. 
 8. 
