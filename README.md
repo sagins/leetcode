@@ -30,7 +30,7 @@ String:
 3. Reverse Words in a String 3 (557)
 4. Largets 3-Same-Digit Number in String (2264)
 5. Fizz Buzz (412)
-6. 
+6. Check if the Sentence Is Panagram (1832)
 7. 
 8. 
 9. 
