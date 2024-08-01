@@ -31,7 +31,7 @@ String:
 4. Largets 3-Same-Digit Number in String (2264)
 5. Fizz Buzz (412)
 6. Check if the Sentence Is Panagram (1832)
-7. 
+7. Minimum Moves to Convert String (2027)
 8. 
 9. 
 10. 
