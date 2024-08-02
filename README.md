@@ -32,7 +32,7 @@ String:
 5. Fizz Buzz (412)
 6. Check if the Sentence Is Panagram (1832)
 7. Minimum Moves to Convert String (2027)
-8. 
+8. Robot Return to Origin (657)
 9. 
 10. 
 
