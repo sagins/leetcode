@@ -34,7 +34,7 @@ String:
 7. Minimum Moves to Convert String (2027)
 8. Robot Return to Origin (657)
 9. Reverse Only Letters (917)
-10. 
+10. Thousand Seperator (1556)
 
 
 
