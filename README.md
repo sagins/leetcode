@@ -39,7 +39,7 @@ String:
 
 
 Hash Table:
-1. 
+1. Largest Substring Between Two Equal Characters (1624)
 2. 
 3. 
 4. 
