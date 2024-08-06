@@ -78,6 +78,10 @@ Linked List:
 10. 
 
 
+Others:
+1. Second Largest Digit in a String (1796)
+
+
 Useful Links:
 - https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide
 - 
