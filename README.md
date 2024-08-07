@@ -80,6 +80,7 @@ Linked List:
 
 Others:
 1. Second Largest Digit in a String (1796)
+2. Number of Good Pairs (1512)
 
 
 Useful Links:
