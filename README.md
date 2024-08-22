@@ -82,6 +82,7 @@ Others:
 1. Second Largest Digit in a String (1796)
 2. Number of Good Pairs (1512)
 3. Make Two arrays Equal by Reversing Subarrays (1460)
+4. Count the Number of Consistent Strings (1684)
 
 
 Useful Links:
